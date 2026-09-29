@@ -25,9 +25,4 @@
 
 ---
 
-## 🚀 Быстрый запуск
 
-1. **Клонируйте репозиторий:**
-   ```bash
-   git clone [https://github.com/IgorBelioglo/truck-logistics-calculator.git](https://github.com/IgorBelioglo/truck-logistics-calculator.git)
-   cd truck-logistics-calculator
